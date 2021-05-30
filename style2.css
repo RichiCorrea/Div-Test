@@ -1,0 +1,8 @@
+.row > div{
+  background: #c3ee7d;
+  padding: 30px;
+  border: 1px solid grey;
+}
+a{
+    color: white;
+}
